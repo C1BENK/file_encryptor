@@ -11,6 +11,9 @@ Advanced File Encryption Tool - Protect your files with military-grade AES-256 e
 · 💾 Large File Support - Optimized for files up to several GB
 · 🎯 User-Friendly Beautiful terminal interface with progress bars
 
+# front view
+![alt text](https://github.com/C1BENK/file_encryptor/blob/main/screenshot/foto1.png?raw=true)
+
 🛠️ INSTALLATION
 
 Prerequisites
@@ -85,6 +88,8 @@ Category File Types Examples
 
 ✅ Supports ALL file types - No limitations!
 
+# example
+![alt text](https://github.com/C1BENK/file_encryptor/blob/main/screenshot/foto.png?raw=true)
 
 🔧 TECHNICAL DETAILS
 
